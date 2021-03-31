@@ -100,7 +100,7 @@ knotter==0.2.9
 lazy-object-proxy==1.3.1
 llvmlite==0.21.0
 locket==0.2.0
-lxml==4.1.1
+lxml==4.6.3
 mapper==0.1.17
 Markdown==2.6.11
 MarkupSafe==1.0
