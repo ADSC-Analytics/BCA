@@ -65,7 +65,7 @@ gudhi==2.1.0
 h5py==2.7.1
 heapdict==1.0.0
 holoviews==1.10.7
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 idna-ssl==1.0.1
 imageio==2.2.0
